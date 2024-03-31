@@ -1,6 +1,8 @@
 # LogisticsShippingRates
 Please consider the below factors while contributing
 
+This is an update 
+
 Code Style:
 Maintain a consistent code style for readability.
 

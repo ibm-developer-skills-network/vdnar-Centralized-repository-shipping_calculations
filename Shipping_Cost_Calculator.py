@@ -10,5 +10,6 @@ shipping_cost = weight * rate
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
 
-
+## New branch additions
+print("This is a feature of the new branch that is to merged with the main")
 

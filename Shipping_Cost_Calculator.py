@@ -10,3 +10,6 @@ shipping_cost = weight * rate
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
 
+## For Practice Project: Part 2 - Git CLI
+print("IBM Professional Certifications Are Very Good Choice To Upskill Yourself")
+

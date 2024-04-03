@@ -1,4 +1,5 @@
 # Shipping Cost Calculator
+# New adfdsd by CLHORI
 
 ## Input package weight and shipping rate
 weight = float(input("Enter the package weight in kilograms: "))

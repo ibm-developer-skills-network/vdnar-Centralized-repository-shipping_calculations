@@ -1,4 +1,5 @@
 # Shipping Cost Calculator
+# Here is a new update by <ManicDevProfessional>
 print("This programs Calculates Shipping Cost for you.")
 
 ## Input package weight and shipping rate

@@ -10,3 +10,5 @@ shipping_cost = weight * rate
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
 
+# Here a new line is added by <VarshiniShreeV>
+# Another line is added by <VarshiniShreeV>

@@ -1,5 +1,4 @@
 # Here is a new update by Povilazs
-# Here is another update by Povilazs
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

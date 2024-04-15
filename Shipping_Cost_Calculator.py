@@ -1,3 +1,4 @@
+# Here is a new update by King-James-II
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

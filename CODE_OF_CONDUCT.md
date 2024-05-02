@@ -9,6 +9,8 @@ identity and expression, level of experience, education, socio-economic status,
 nationality, personal appearance, race, religion, or sexual identity
 and orientation.
 
+We also commit to environmental stewardship, recognizing the importance of sustainable practices and the impact of our actions on the planet. We pledge to integrate sustainability into our operations and to promote eco-friendly initiatives within our community.
+
 We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community.
 

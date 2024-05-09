@@ -1,4 +1,3 @@
-# Here is another update by lckwong
 # Here is a new update by lckwong
 # Shipping Cost Calculator
 

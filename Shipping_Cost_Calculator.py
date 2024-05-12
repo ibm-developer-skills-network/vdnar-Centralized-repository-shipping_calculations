@@ -11,4 +11,3 @@ shipping_cost = weight * rate
 print(f"Shipping Cost: {shipping_cost} USD")
 
 # Here is a line i added to pad my gh stats
-# More lines to pad stats

@@ -1,5 +1,3 @@
-# Here is another update by marti99-lab
-
 # Here is a new update by marti99-lab
 
 # Shipping Cost Calculator

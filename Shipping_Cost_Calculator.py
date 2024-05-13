@@ -4,9 +4,9 @@
 weight = float(input("Enter the package weight in kilograms: "))
 rate = float(input("Enter the shipping rate per kilogram: "))
 
-## Calculate shipping cost
+## This Will Calculate shipping cost
 shipping_cost = weight * rate
 
-## Display the result
+## This Will Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
 

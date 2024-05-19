@@ -1,4 +1,3 @@
-# Here is another update by silkeaz
 # Here is a new update by silkeaz
 # Shipping Cost Calculator
 

@@ -1,5 +1,4 @@
 # Here is a new update by muba123321
-# Here is another update by muba123321
 
 # Shipping Cost Calculator
 

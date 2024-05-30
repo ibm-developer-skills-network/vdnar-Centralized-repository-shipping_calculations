@@ -12,3 +12,4 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
 # Here is a new update by https://github.com/nbmblueeye
 
+# Here is another update by https://github.com/nbmblueeye

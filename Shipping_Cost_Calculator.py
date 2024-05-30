@@ -12,4 +12,3 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
 
 ## Added a new comment line , updated by Sharookh Ali  
-# Here is another update by <your GitHub username>

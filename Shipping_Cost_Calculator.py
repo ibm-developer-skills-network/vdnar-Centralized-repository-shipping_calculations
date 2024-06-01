@@ -1,3 +1,4 @@
+# Here is a new update by Jeggon
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

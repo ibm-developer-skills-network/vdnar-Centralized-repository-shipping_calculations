@@ -12,3 +12,4 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
 # Here is a new update by <shipping_calc_fix>
 Test 1
+Test 2

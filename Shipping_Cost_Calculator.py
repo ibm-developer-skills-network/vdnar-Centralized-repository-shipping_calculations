@@ -1,4 +1,5 @@
-# Here is a new update done and confirmed  nilsgolom
+# Here is another update by nilsgolom
+# Here is a new update done and confirmed by nilsgolom
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

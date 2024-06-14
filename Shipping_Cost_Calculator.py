@@ -1,4 +1,4 @@
-Insert the following line into the Shipping_Cost_Calculator.py file, replacing <your GitHub username> with your real GitHub username.
+ # Here is a new update by CristeaStefan
 
 # Shipping Cost Calculator
 

@@ -1,3 +1,5 @@
+ # Here is a new update by kuba-cybi
+ 
 # Shipping Cost Calculator
 # Here is a new update by kuba-cybi
 
@@ -10,4 +12,7 @@ shipping_cost = weight * rate
 
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
+
+
+
 

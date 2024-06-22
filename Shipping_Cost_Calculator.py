@@ -1,5 +1,4 @@
 # Here is a new update by b-aeo
-# Here is another update by b-aeo
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

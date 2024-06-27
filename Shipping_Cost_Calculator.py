@@ -1,5 +1,4 @@
  # Here is a new update by mohammedanafmaster
- # Here is another update by mohammedanafmaster
 
 # Shipping Cost Calculator
 

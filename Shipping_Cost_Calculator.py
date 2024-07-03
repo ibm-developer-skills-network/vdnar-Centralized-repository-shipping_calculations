@@ -12,6 +12,3 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
 # Here is a new update by bygbox
 printf("Heja heja go!")
-
-# Here is another update by bygbox
-printf("Vsichni lide k volbam!")

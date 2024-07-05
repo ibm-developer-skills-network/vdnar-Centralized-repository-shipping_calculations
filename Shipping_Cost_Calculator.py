@@ -11,3 +11,4 @@ shipping_cost = weight * rate
 print(f"Shipping Cost: {shipping_cost} USD")
 
 "# Here is another update by ruba-master, but this one should be reverted." 
+"# Here is another update by ruba-master, but this one should be reverted." 

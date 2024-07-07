@@ -1,5 +1,4 @@
 # Here is a new update by lamia-elazzouzi-cs
-# Here is another update by lamia-elazzouzi-cs
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

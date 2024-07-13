@@ -1,4 +1,4 @@
-# Here is another update by ivansing
+# # Here is a new update by ivansing
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

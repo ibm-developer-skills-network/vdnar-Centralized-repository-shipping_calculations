@@ -11,4 +11,5 @@ shipping_cost = weight * rate
 ## Display the result
 print(f"Shipping Cost: {shipping_cost})
 print("Rates are in USD")
+print("Thanks ")
 

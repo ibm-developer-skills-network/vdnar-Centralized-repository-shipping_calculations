@@ -1,4 +1,4 @@
-# Here is a new update by Dilia
+# Here is a new update by Dilflores
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

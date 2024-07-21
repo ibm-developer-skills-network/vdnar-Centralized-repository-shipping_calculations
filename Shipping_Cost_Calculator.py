@@ -30,3 +30,5 @@ while currency not in ["USD", "ILS", "EUR"]:
         print("Something went wrong, try again..")
 
 print(f"Shipping Cost: {exchanger.exchanger(shipping_cost, currency)} {currency}")
+
+# Here is another update by elazrev #

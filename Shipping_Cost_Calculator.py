@@ -1,4 +1,4 @@
-# Here is a new update by narayanan1208 on 26th July 2024
+# Here is a new update by narayanan1208
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

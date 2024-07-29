@@ -1,6 +1,7 @@
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
+print("Please provide the propper information \n")
 weight = float(input("Enter the package weight in kilograms: "))
 rate = float(input("Enter the shipping rate per kilogram: "))
 

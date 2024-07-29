@@ -1,3 +1,5 @@
+# Here is a new update by ramskott
+# Here is another new update by ramskott - 2
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

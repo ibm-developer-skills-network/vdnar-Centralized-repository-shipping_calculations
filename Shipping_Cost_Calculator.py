@@ -1,5 +1,4 @@
 # Here is a new update by jeni
-# Here is another update by yours truly
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

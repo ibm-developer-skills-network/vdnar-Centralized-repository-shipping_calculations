@@ -10,6 +10,9 @@ shipping_cost = weight * rate
 #converting rates
 print(f"Shipping Cost: {shipping_cost * 3.76} AED")
 
+#convert to CAD
+print(f"Shipping Cost: {shipping_cost * 1.8} AED")
+
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
 

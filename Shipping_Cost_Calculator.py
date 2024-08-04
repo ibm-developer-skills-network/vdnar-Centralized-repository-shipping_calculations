@@ -1,5 +1,4 @@
  # Here is a new update by EhabMak
- # Here is another update by EhabMak
 
 # Shipping Cost Calculator
 

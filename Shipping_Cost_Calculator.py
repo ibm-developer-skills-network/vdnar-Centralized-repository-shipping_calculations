@@ -1,3 +1,5 @@
+# Here is a new update by Harshpandey2165
+# Here is another update by Harshpandey2165
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

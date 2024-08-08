@@ -1,5 +1,4 @@
  # Here is a new update by mzunigag
- # Here is another update by mzunigag
 
 # Shipping Cost Calculator
 

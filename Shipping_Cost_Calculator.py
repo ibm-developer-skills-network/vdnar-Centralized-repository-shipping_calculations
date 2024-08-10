@@ -1,5 +1,5 @@
- # Here is a new update by <your GitHub tmrnd0>
-
+# Here is a new update by tmrnd0
+## Here is another update by  tmrnd0
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

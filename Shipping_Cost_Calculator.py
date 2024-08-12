@@ -1,4 +1,4 @@
-# Here is a new update by anhkhoa1597
+# Here is a new update by anhkhoa1597 (15:40 12/08/2024)
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

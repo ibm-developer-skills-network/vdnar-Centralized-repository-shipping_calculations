@@ -1,4 +1,4 @@
-# The code is updated by KruBro
+# Here is another Update added by KruBro
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

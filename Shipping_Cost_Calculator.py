@@ -1,5 +1,4 @@
  # Here is a new update by AlexDukachev
- # Here is another update by AlexDukachev
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

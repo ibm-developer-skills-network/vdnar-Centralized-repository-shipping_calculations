@@ -1,5 +1,4 @@
-# Here is a new update by Alienz11
-# Here is another update by Alienz11
+ # Here is a new update by Alienz11
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

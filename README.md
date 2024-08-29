@@ -18,8 +18,3 @@ All contributions undergo a code review process.
 
 Licensing:
 Contributions are licensed.
-
----
-
-1  
-2023 XYZ, Inc.

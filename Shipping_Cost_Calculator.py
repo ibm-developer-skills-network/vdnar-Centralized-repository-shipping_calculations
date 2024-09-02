@@ -1,4 +1,4 @@
- # Here is a new update by <Wafaa-20>
+ # Here is a new update by < Wafaa-20 >
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

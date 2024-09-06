@@ -1,5 +1,4 @@
  # Here is a new update by newVoid2
- # Here is another update by newVoid2
  # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

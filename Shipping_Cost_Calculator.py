@@ -1,4 +1,5 @@
 # Here is a new update by Dan-CodeVoyager
+# Here is another update by Dan
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

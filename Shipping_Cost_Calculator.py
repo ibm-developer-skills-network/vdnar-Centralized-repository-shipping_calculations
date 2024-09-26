@@ -1,3 +1,5 @@
+# Here is a new update by JessicaALeite
+# Here is another update by JessicaALeite
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

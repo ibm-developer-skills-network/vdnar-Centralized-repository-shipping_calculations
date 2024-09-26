@@ -1,6 +1,4 @@
 # Here is a new update by Umrao-Krishna-Singh
-# Here is another update by Umrao-Krishna-Singh
-
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

@@ -1,4 +1,3 @@
-# Here is another update by <ChuyFernandez>
 # Here is a new update by <ChuyFernandez>
 # Shipping Cost Calculator
 

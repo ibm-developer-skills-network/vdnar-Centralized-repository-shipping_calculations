@@ -1,4 +1,4 @@
- # Here is a new update by NQTin
+ # Here is a new update by tinnguyen.080104@gmail.com
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

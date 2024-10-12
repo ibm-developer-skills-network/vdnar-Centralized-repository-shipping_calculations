@@ -1,4 +1,4 @@
- # Here is another update by ZOUARIWassim
+ # Here is a new update by ZOUARIWassim
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

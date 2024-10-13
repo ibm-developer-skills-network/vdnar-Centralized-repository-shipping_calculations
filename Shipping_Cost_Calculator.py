@@ -1,7 +1,5 @@
  # Here is a new update by block-mo
 
- # Here is another update by block-mo
-
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

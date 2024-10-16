@@ -1,5 +1,4 @@
 #Here is a new update by HRMeister
-# Here is another update by HRMeister
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

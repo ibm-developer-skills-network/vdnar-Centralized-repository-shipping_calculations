@@ -1,4 +1,3 @@
-#Another edit
 #Another update by torssat
 #Update by torssat
 # Shipping Cost Calculator

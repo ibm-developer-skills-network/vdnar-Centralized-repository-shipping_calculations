@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 #Here is a new update by torssat
+=======
+#Another update by torssat
+#Update by torssat
+>>>>>>> shipping_calculator_fixes
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

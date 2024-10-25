@@ -1,7 +1,4 @@
 Abhinav Chaudhary
-Ashish Kumar
-Savita Singh
-IP SINGH
 
 # LogisticsShippingRates
 

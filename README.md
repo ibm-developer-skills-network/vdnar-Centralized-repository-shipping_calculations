@@ -1,6 +1,6 @@
 Abhinav Chaudhary
 Ashish Kumar
-
+Savita Singh
 # LogisticsShippingRates
 
 Please consider the below factors while contributing

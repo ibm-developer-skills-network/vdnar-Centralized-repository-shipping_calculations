@@ -1,4 +1,7 @@
 # LogisticsShippingRates
+
+# Here is a new update by <soulefDev>
+
 Please consider the below factors while contributing
 
 Code Style:

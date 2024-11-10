@@ -20,4 +20,4 @@ Licensing:
 Contributions are licensed.
 
 footer:
-2023. XYZ, Inc..
+2023 XYZ, Inc.

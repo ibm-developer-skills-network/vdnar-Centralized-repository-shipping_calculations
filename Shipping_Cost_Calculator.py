@@ -40,3 +40,5 @@ print(f"Distance: {distance} km")
 print(f"Base Shipping Cost: {shipping_cost:.2f} USD")
 print(f"Distance Fee: {distance_fee:.2f} USD")
 print(f"Total Shipping Cost: {total_cost:.2f} USD")
+
+ # Here is a new update by <thapakushal>

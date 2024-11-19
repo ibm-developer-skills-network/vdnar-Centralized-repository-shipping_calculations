@@ -1,5 +1,4 @@
  # Here is a new update by bp4nva
- # Here is another update by bp4nva
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

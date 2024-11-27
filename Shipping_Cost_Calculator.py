@@ -11,4 +11,4 @@ shipping_cost = weight * rate
 print(f"Shipping Cost: {shipping_cost} USD")
 
 # Here is a new update by AndrewMichael2020
-print(f"Here is a new update by AndrewMichael2020")
+print(f"AAA! Here is a new update by AndrewMichael2020")

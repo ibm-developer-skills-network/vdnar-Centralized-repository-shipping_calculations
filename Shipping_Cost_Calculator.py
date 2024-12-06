@@ -1,4 +1,4 @@
-# Here is a new update by Dish-dev
+# Here is a new update by Dish-dev created in December
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

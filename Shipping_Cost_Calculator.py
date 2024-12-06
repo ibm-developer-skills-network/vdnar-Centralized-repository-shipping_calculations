@@ -1,3 +1,4 @@
+# Here is a new update by jscode-1302
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate

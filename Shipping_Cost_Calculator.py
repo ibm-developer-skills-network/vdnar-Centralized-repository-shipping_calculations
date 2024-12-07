@@ -1,12 +1,6 @@
-# Shipping Cost Calculator
+# Edited shipping_calculator.py
+def calculate_shipping(weight, distance, priority=False):
+    rate = 0.5 if not priority else 1.0
+    return weight * distance * rate
 
-## Input package weight and shipping rate
-weight = float(input("Enter the package weight in kilograms: "))
-rate = float(input("Enter the shipping rate per kilogram: "))
-
-## Calculate shipping cost
-shipping_cost = weight * rate
-
-## Display the result
-print(f"Shipping Cost: {shipping_cost} USD")
 

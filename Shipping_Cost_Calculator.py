@@ -10,3 +10,5 @@ shipping_cost = weight * rate
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
 
+#usar o codigo junto de uma api para conectar ao banco de dados da empresa 
+

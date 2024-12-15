@@ -19,4 +19,4 @@ All contributions undergo a code review process.
 Licensing:
 Contributions are licensed.
 
-2024 XYZ, Inc.
+2022 XYZ, Inc.

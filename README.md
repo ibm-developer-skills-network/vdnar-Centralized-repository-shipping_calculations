@@ -21,4 +21,4 @@ Licensing:
 Contributions are licensed.
 
 footer:
-2023 XYZ, Inc.
+Copyright 2023 XYZ, Inc.

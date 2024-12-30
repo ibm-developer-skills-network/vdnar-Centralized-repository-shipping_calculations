@@ -12,5 +12,3 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
  # Here is a new update by d4vastu
 
- # Here is another update by d4vastu
-

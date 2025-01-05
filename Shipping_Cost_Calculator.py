@@ -18,7 +18,3 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
 
 
-
-                              [ Read 12 lines ]
-^G Help        ^O Write Out   ^W Where Is    ^K Cut         ^T Execute
-^X Exit        ^R Read File   ^\ Replace     ^U Paste       ^J Justify

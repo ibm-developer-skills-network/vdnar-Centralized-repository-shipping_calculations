@@ -12,7 +12,7 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
 # Hera is a new update by paraspatil11
 
-# Here is another update by paraspatil11
+
 
 
 

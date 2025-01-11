@@ -1,4 +1,3 @@
-# Here is another update by esnaumov
 # Here is a new update by esnaumov
 # Shipping Cost Calculator
 

@@ -16,5 +16,8 @@ Check the Issue Tracker for tasks.
 Code Review:
 All contributions undergo a code review process.
 
+Changes and Edits:
+Edits to the page must be approved using a pull request.
+
 Licensing:
 Contributions are licensed.

@@ -12,3 +12,4 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
 # Here is the new update by Leo-Cullen
 
+# Here is another update by Leo-Cullen

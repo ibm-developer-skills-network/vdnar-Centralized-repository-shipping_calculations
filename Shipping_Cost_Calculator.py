@@ -1,6 +1,4 @@
  # Here is a new update by <Souki-lab>
-# Here is a another update by <Souki-lab>
-
  # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
